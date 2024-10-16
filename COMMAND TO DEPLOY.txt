@@ -1,0 +1,1 @@
+pyinstaller -D -w --collect-all pyvis --additional-hooks-dir=. main.py

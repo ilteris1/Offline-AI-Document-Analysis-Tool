@@ -1,0 +1,8 @@
+PyQt5
+pandas
+spacy
+pyinstaller
+python-docx
+PyMuPDF
+PyQtWebEngine
+pyvis
