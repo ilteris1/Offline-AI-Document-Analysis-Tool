@@ -11,7 +11,7 @@ The main purpose of developing this tool was to analyze documents via AI in an o
 
 1. Install the required packages:
 ```python
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 2. Download the English language model for SpaCy:
