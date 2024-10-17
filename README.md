@@ -45,7 +45,9 @@ Note: The open source documents analyzed in the preview were retrieved from [htt
 ![resim](https://github.com/user-attachments/assets/2f27c699-1be3-42e5-a8cf-b7d5914feb11)
 ![resim](https://github.com/user-attachments/assets/fc077442-7e80-4114-beac-10d7865a78d5)
 
+## Preview
 
+For questions, collaboration, or production/deployment issues, you can contact me at https://ilteris.tr or ilterisisik@gmail.com.
 
 
 
